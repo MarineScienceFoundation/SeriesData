@@ -6,8 +6,8 @@ There are many ways to contribute to this Scientific development. We welcome con
 ### Help with the design
 
 [Submissions under development]
-If you have a suggestion regarding the overall design of IPFS (or if find an error),
-please submit an [issue](https://github.com/MarineScienceFoundsation/SeriesData/issues/new).
+If you have a suggestion regarding the overall design of SeriesData (or if find an error), please [Email @bmcgarvey directly](mailto:bmcgarvey@marinesciencefoundation?subject=Contributing to SeriesData) until we get the 
+issues page up and working the way we want. 
 
 This repository is a landing repository for SeriesData, and where any big updates will be posted. 
 If you have an error with an [implementation](README.md#implementations), 
